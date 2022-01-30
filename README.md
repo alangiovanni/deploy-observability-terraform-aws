@@ -1,5 +1,5 @@
 # IaC - Infraestructure as Code
-	🚧  Deploy de um ambiente de monitoria na AWS com Terraform 🚀 Concluído  🚧
+	🚧  Deploy de um ambiente de monitoria na AWS com Terraform 🚀 Em andamento  🚧
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
