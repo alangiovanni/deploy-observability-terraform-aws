@@ -22,6 +22,7 @@ Provisionar uma infraestrutura na AWS com Terraform
     - [x] Deploy de Zabbix Server em Docker
     - [x] Deploy de Grafana Server em Docker
     - [x] Hostname
+- [ ] Deploy com Docker Compose
 
 ---
 
